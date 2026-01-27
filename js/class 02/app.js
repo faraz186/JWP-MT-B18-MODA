@@ -49,7 +49,7 @@ console.log(number);
 
 
 // variable declaration and initialization
-
+  
 var number1 = 50;
 
 console.log(number1);
@@ -145,6 +145,7 @@ var firstName = prompt("Enter your first name");
 var lastName = prompt("Enter your last name");
 
 console.log(firstName + " " + lastName);
+
 
 
 

@@ -1,5 +1,5 @@
 var interval;
-     
+      
 function greet() {
   console.log("hello students");
 }
@@ -28,6 +28,7 @@ var anchorElement =
 console.log(anchorElement);
 
 // text = junk artifact / garbage value
+
 
 
 

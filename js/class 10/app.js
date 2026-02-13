@@ -1,20 +1,20 @@
-// var interval;
+var interval;
 
-// function greet() {
-//   console.log("hello students");
-// }
+function greet() {
+  console.log("hello students");
+}
 
-// interval = setInterval(greet, 2000);
+interval = setInterval(greet, 2000);
 
-// function stop() {
-//   clearInterval(interval);
-// }
+function stop() {
+  clearInterval(interval);
+}
 
-// setTimeout();
+setTimeout();
 
-// function message() {
-//   document.write("<i>welcome to our website</i>");
-// }
+function message() {
+  document.write("<i>welcome to our website</i>");
+}
 
 // setTimeout(message, 5000);
 
@@ -28,3 +28,4 @@ var anchorElement =
 console.log(anchorElement);
 
 // text = junk artifact / garbage value
+

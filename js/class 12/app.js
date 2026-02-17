@@ -1,7 +1,7 @@
 var link = document.getElementById("anchor");
                             
 console.log(link.attributes[1]);
-
+ 
 // array
 
 var arr = [10, "faraz", undefined, false, 500];
@@ -141,6 +141,7 @@ console.log(obj2);
 // bookAuthor
 // bookPrice
 // bookQuantity
+
 
 
 

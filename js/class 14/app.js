@@ -1,5 +1,5 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyDSEOL0MPjrwsUado3buv67kjE8F9OGfec",           
+  apiKey: "AIzaSyDSEOL0MPjrwsUado3buv67kjE8F9OGfec",            
   authDomain: "faraz-resume.firebaseapp.com",
   databaseURL: "https://faraz-resume-default-rtdb.firebaseio.com",
   projectId: "faraz-resume",
@@ -90,6 +90,7 @@ function LoginwithGoogle() {
       console.log(error);
     });
 }
+
 
 
 
